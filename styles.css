@@ -3,7 +3,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  
 }
 
 .container {
@@ -14,8 +13,7 @@ body {
 .square {
   width: 100px;
   height: 100px;
-  box-sizing: flex;
-	background: #6F4E37;
+  background-color: #E6E6FA;
   transition: background-color 0.3s ease;
   cursor: pointer;
 }
